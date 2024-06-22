@@ -1,0 +1,1 @@
+{"version":3,"file":"global.pipe.js","sourceRoot":"","sources":["../../src/pipes/global.pipe.ts"],"names":[],"mappings":";;;AAAA,2CAA+D;AAGxD,MAAM,WAAW,GAAG,CACvB,qBAA6C,EAC9B,EAAE,CAAC;IAClB,IAAI,uBAAc,CAAC;QACf,oBAAoB,EAAE,KAAK;QAC3B,mBAAmB,EAAE,KAAK;QAC1B,SAAS,EAAE,IAAI;QACf,gBAAgB,EAAE;YACd,wBAAwB,EAAE,IAAI;YAC9B,GAAG,qBAAqB;SAC3B;KACJ,CAAC;CACL,CAAC;AAZW,QAAA,WAAW,eAYtB"}

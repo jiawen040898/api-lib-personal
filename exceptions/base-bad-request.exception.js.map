@@ -1,0 +1,1 @@
+{"version":3,"file":"base-bad-request.exception.js","sourceRoot":"","sources":["../../src/exceptions/base-bad-request.exception.ts"],"names":[],"mappings":";;;AAAA,2CAAqD;AAIrD,MAAa,uBAAwB,SAAQ,4BAAmB;IAC5D,YAAY,OAAe,EAAE,YAA0B;QACnD,KAAK,CAAC,OAAO,EAAE;YACX,WAAW,EAAE,IAAI,CAAC,SAAS,CAAC,YAAY,CAAC;SAC5C,CAAC,CAAC;IACP,CAAC;CACJ;AAND,0DAMC"}

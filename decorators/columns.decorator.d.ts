@@ -1,0 +1,11 @@
+import { ColumnOptions, ColumnType } from 'typeorm';
+export declare const getColumnType: (type?: ColumnType) => ColumnType | undefined;
+export declare const Column2: (options?: ColumnOptions) => PropertyDecorator;
+export declare const DecimalColumn: (options?: ColumnOptions) => PropertyDecorator;
+export declare const DateColumn: (options?: ColumnOptions) => PropertyDecorator;
+export declare const DateTimeColumn: (options?: ColumnOptions) => PropertyDecorator;
+export declare const IntegerColumn: (options?: ColumnOptions) => PropertyDecorator;
+export declare const UuidColumn: (options?: ColumnOptions) => PropertyDecorator;
+export declare const ArrayColumn: (options?: ColumnOptions) => PropertyDecorator;
+export declare const SoftDeleteColumn: (options?: ColumnOptions) => PropertyDecorator;
+export declare const JsonColumn: (options?: ColumnOptions) => PropertyDecorator;

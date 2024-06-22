@@ -1,0 +1,1 @@
+{"version":3,"file":"decimal.transformer.js","sourceRoot":"","sources":["../../src/transformers/decimal.transformer.ts"],"names":[],"mappings":";;;AAEA,MAAa,kBAAkB;IAE3B,EAAE,CAAC,KAAsB;QACrB,OAAO,KAAK,CAAC;IACjB,CAAC;IAGD,IAAI,CAAC,KAAa;QACd,OAAO,KAAK,KAAK,IAAI,CAAC,CAAC,CAAC,IAAI,CAAC,CAAC,CAAC,UAAU,CAAC,KAAK,CAAC,CAAC;IACrD,CAAC;CACJ;AAVD,gDAUC"}
